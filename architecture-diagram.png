@@ -1,0 +1,11 @@
+User
+ ↓
+ALB
+ ↓
+EC2 (App + Jenkins)
+ ↓
+Docker
+ ↓
+Monitoring (Prometheus + Grafana)
+ ↓
+CloudWatch
